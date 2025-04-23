@@ -11,6 +11,14 @@ The objectives can be broken down into the following detailed components:
 https://github.com/payal-dabhi/power-bi-project-2/blob/main/SuperStore%20Sales%20DataSet.xlsx
 
 ## View Dashboard
+![img 2](https://github.com/user-attachments/assets/2bb15503-137f-4200-8c90-a34b009ce58f)
+![img 1](https://github.com/user-attachments/assets/1be47cc1-6a75-4da9-9be5-97bab651da00)
+
+## Learning 
+Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
+
+
+
 
 
 
