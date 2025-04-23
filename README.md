@@ -8,6 +8,7 @@ The objectives can be broken down into the following detailed components:
 3.	Sales Forecasting: Leverage historic data and apply time series generate sales forecasts for next 15 days .
 4.	Actionable Insight and Recommendations: End goal is to insights and actionable information that can drive strategic decision support the supermarket’s goal for growth, efficiency, satisfaction
 ## Dataset used
+https://github.com/payal-dabhi/power-bi-project-2/blob/main/SuperStore%20Sales%20DataSet.xlsx
 
 ## View Dashboard
 
