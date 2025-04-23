@@ -7,6 +7,8 @@ The objectives can be broken down into the following detailed components:
 2.	Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts 
 3.	Sales Forecasting: Leverage historic data and apply time series generate sales forecasts for next 15 days .
 4.	Actionable Insight and Recommendations: End goal is to insights and actionable information that can drive strategic decision support the supermarket’s goal for growth, efficiency, satisfaction
+## Dataset used
+
 ## View Dashboard
 
 
