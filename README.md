@@ -1,6 +1,6 @@
 # Power Bi Project -2 Sales Dashboard
 ## Project Objectives
-To Contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, tom provide valuable insights and accurate sales forecasting.
+To Contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 ## Description
 The objectives can be broken down into the following detailed components:
 1.	Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various level of granularity
